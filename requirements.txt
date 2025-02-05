@@ -1,0 +1,9 @@
+telegram
+python-telegram-bot
+requests
+yandex_music
+asyncio
+nest_asyncio
+mutagen
+SpeechRecognition
+pydub
